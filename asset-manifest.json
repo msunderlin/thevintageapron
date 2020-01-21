@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/thevintageapron/static/css/main.d1b05096.chunk.css",
+    "main.js": "/thevintageapron/static/js/main.0737a5fb.chunk.js",
+    "main.js.map": "/thevintageapron/static/js/main.0737a5fb.chunk.js.map",
+    "runtime-main.js": "/thevintageapron/static/js/runtime-main.2d514889.js",
+    "runtime-main.js.map": "/thevintageapron/static/js/runtime-main.2d514889.js.map",
+    "static/js/2.744c8376.chunk.js": "/thevintageapron/static/js/2.744c8376.chunk.js",
+    "static/js/2.744c8376.chunk.js.map": "/thevintageapron/static/js/2.744c8376.chunk.js.map",
+    "index.html": "/thevintageapron/index.html",
+    "precache-manifest.02b49bd1d6f4c4cecb120460de154d42.js": "/thevintageapron/precache-manifest.02b49bd1d6f4c4cecb120460de154d42.js",
+    "service-worker.js": "/thevintageapron/service-worker.js",
+    "static/css/main.d1b05096.chunk.css.map": "/thevintageapron/static/css/main.d1b05096.chunk.css.map",
+    "static/js/2.744c8376.chunk.js.LICENSE": "/thevintageapron/static/js/2.744c8376.chunk.js.LICENSE",
+    "static/media/logo.svg": "/thevintageapron/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2d514889.js",
+    "static/js/2.744c8376.chunk.js",
+    "static/css/main.d1b05096.chunk.css",
+    "static/js/main.0737a5fb.chunk.js"
+  ]
+}
